@@ -14,3 +14,5 @@ Driven by a **"Zero-Failure"** mindset forged in the high-stakes environment of 
 - **Security:** Nmap, Wireshark, Linux (Kali/Ubuntu), SSH/Telnet Analysis
 - **Cloud:** Salesforce (Identity Basics, Security Health Check)
 - **Mindset:** Zero Trust Architecture | Vulnerability Remediation
+  - ☁️ **Cloud Focus:** Salesforce Identity & Access Management (IAM)
+- 🏆 **Salesforce Portfolio:** [My Trailblazer Profile] https://www.salesforce.com/trailblazer/tykl9odcolz1z38zos
