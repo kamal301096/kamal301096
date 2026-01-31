@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi, I'm Kamalpreet Singh 🛡️💻
 
-<!--
-**kamal301096/kamal301096** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Cybersecurity Analyst | Salesforce Identity Specialist | B.Tech Computer Science
 
-Here are some ideas to get you started:
+Driven by a **"Zero-Failure"** mindset forged in the high-stakes environment of the Indian Railways. I specialize in bridging the gap between physical infrastructure and cloud security.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔍 **Currently Mastering:** Network Penetration Testing (Nmap, Wireshark, Metasploit)
+- ☁️ **Cloud Focus:** Salesforce Identity & Access Management (IAM)
+- 🛠️ **Background:** B.Tech in CS + Technical Infrastructure Maintenance
+- 🇦🇺 **Goal:** Securing enterprise environments in the Australian tech ecosystem.
+
+---
+### 🛠️ Tech Stack & Tools
+- **Security:** Nmap, Wireshark, Linux (Kali/Ubuntu), SSH/Telnet Analysis
+- **Cloud:** Salesforce (Identity Basics, Security Health Check)
+- **Mindset:** Zero Trust Architecture | Vulnerability Remediation
